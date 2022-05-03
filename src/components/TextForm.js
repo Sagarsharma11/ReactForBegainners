@@ -100,7 +100,7 @@ export default function TextForm(props) {
 
             <div className="container border py-4 px-4 my-3 bg-dark" >
                 <h2 className="text-light">
-                    Preview
+                    Preview - 
                 </h2>
 
                 <p style={{ color: `${col}` }  } className={txtstyle}  >
